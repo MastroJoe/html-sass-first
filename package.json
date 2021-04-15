@@ -1,0 +1,26 @@
+{
+  "name": "html-sass-first",
+  "version": "1.0.0",
+  "description": "first html sass project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MastroJoe/html-sass-first.git"
+  },
+  "keywords": [
+    "html",
+    "sass"
+  ],
+  "author": "Giorgio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MastroJoe/html-sass-first/issues"
+  },
+  "homepage": "https://github.com/MastroJoe/html-sass-first#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.16"
+  }
+}
